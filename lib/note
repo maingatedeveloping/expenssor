@@ -1,0 +1,11 @@
+
+
+enum are just some kind of class with a set of value that doesn't change which are used by developers. E.g fontWeight-bold
+
+.SingleChildScrollView <widget> -_> apart from setting this to a particular widget, you can also set it to the whole body so that incase a keyboard has to push a textfield upwards, it can  be able to do so.
+//more on ListView
+. Future are classes which allows as to create object which will give as a value in future
+
+.DateFormat.yMd(_selectedDate x).format(_selectedDate ✔️) the date shouldn't be passed to the constructor but instead it gives an object u can pass the date to.
+.Remember that ListView has infinite height.-
+.Context is used by flutter internally to understand where every widget belongs, it's just some meta information about the widget and the location in the wiget tree and this context are the element in the element tree.
